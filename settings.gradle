@@ -1,0 +1,2 @@
+rootProject.name='Pika Fun Facts'
+include ':app'
